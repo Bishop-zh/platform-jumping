@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ef40386528180142b037ec11f305305, type: 3}
+  m_Name: GameRuntimeAssets
+  m_EditorClassIdentifier: 
+  gameplayHud: {fileID: 3501719684464463204, guid: 167ec76218dcb9d418c40ea4c0e3b1ea, type: 3}
+  modal: {fileID: 8020537708486711155, guid: e3e8f69cb8cf41d4bb0be785d8c241bb, type: 3}
+  pauseModal: {fileID: 282525197735245903, guid: f2516a24876e43648900f2f17f5c890b, type: 3}
+  mainMenu: {fileID: 1693256352784647308, guid: 3205090cdf9141f4f8bc391e57e2ff38, type: 3}

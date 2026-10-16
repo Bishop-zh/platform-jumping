@@ -1,0 +1,45 @@
+PASS: MainMenu initializes home UI
+PASS: Home settings button opens settings
+PASS: Home settings return closes dialog
+PASS: Home level-select button opens selection
+PASS: Initial progress prevents selecting locked maps
+PASS: Selection back button restores home
+PASS: Start button loads default map and binds player
+PASS: HUD settings pauses gameplay
+PASS: Settings return resumes gameplay
+PASS: HUD pause button pauses gameplay
+PASS: Death animation routes to failure UI
+PASS: Failure retry restores control and preserves death count
+PASS: Failure restart resets run and built-in charge
+PASS: Level 1 completion unlocks level 2
+PASS: Completion opens victory UI
+PASS: Victory replay resets current map
+PASS: Victory next button loads level 2 and resumes time
+PASS: Level 2 completion unlocks level 3
+PASS: Victory next button loads level 3
+PASS: Final victory hides next-level button
+PASS: Victory return-select opens selection with last map highlighted
+PASS: Unlocked map can be selected
+PASS: Selection enter button loads chosen map
+PASS: Failure return-main button restores home and time
+PASS: Home start continues last played unlocked map
+PASS: Failure return-select button opens selection
+PASS: Empty scene Play automatically boots shared main menu
+PASS: Direct map Play binds playable session
+PASS: Gameplay HUD is dynamically instantiated outside map
+PASS: Exactly one gameplay HUD exists
+PASS: Edited HUD button layout is preserved at runtime
+PASS: Dynamically bound shared HUD settings responds
+PASS: Map 1 dynamically chooses its level-name artwork
+PASS: Map 1 attaches fullscreen HUD adaptation
+PASS: Map 1 world viewport fills screen aspect without letterboxing
+PASS: Map 2 dynamically chooses its level-name artwork
+PASS: Map 2 attaches fullscreen HUD adaptation
+PASS: Map 2 world viewport fills screen aspect without letterboxing
+PASS: Map 3 dynamically chooses its level-name artwork
+PASS: Map 3 attaches fullscreen HUD adaptation
+PASS: Map 3 world viewport fills screen aspect without letterboxing
+PASS: Fullscreen background covers and controls stay visible at (1920.00, 1080.00)
+PASS: Fullscreen background covers and controls stay visible at (1920.00, 1200.00)
+PASS: Fullscreen background covers and controls stay visible at (2560.00, 1080.00)
+PASS: Fullscreen background covers and controls stay visible at (1024.00, 768.00)

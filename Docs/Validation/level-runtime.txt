@@ -1,0 +1,1 @@
+Three scenes start with grounded controllable player, independent HUD, camera, crystal totals 13/17/10, chargers 1/2/1.

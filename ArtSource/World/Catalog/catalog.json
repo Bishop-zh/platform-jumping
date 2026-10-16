@@ -1,0 +1,697 @@
+{
+  "items": [
+    {
+      "name": "GroundWide_A",
+      "width": 6.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.5142578125,
+          "w": 6.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundWide_B",
+      "width": 6.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.5426842485549133,
+          "w": 6.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundRaised",
+      "width": 6.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -0.8987068965517242,
+          "y": 1.4999120213963966,
+          "w": 4.256573275862069,
+          "h": 0.25
+        },
+        {
+          "x": 2.0048841594827587,
+          "y": 2.3052857545045047,
+          "w": 1.550608836206897,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundPlateBase",
+      "width": 6.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.5171212121212123,
+          "w": 6.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundCantileverLeft",
+      "width": 4.0,
+      "height": 2.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.8363458806818187,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundCenterPier",
+      "width": 4.0,
+      "height": 2.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.8805659105329955,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundCantileverRight",
+      "width": 4.0,
+      "height": 2.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.8604094692211062,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundSteps",
+      "width": 4.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -1.3286253280839895,
+          "y": 2.2400193520642198,
+          "w": 1.3576771653543307,
+          "h": 0.25
+        },
+        {
+          "x": 0.11647801837270333,
+          "y": 1.914205848623852,
+          "w": 1.5325295275590551,
+          "h": 0.25
+        },
+        {
+          "x": 1.3918717191601049,
+          "y": 1.610862241972477,
+          "w": 1.018257874015748,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundLowStep",
+      "width": 5.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -0.795686884573304,
+          "y": 1.0823444870283019,
+          "w": 3.505008889496717,
+          "h": 0.25
+        },
+        {
+          "x": 1.6535318654266955,
+          "y": 2.2954009433962264,
+          "w": 1.3934286105032823,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundPier",
+      "width": 2.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.8832589285714278,
+          "w": 2.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundLong",
+      "width": 7.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.565604440789475,
+          "w": 7.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "GroundExitBase",
+      "width": 5.0,
+      "height": 3.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 1.8,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.3240895206766927,
+          "w": 5.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeLong_A",
+      "width": 10.0,
+      "height": 1.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.9851943597560975,
+          "w": 10.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeLong_B",
+      "width": 10.0,
+      "height": 1.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.9287366071428571,
+          "w": 10.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeBrokenLeft",
+      "width": 3.0,
+      "height": 1.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -0.6678850446428571,
+          "y": 1.0412585746951215,
+          "w": 1.7319475446428572,
+          "h": 0.25
+        },
+        {
+          "x": 0.41676897321428585,
+          "y": 0.8441263338414633,
+          "w": 0.4373604910714288,
+          "h": 0.25
+        },
+        {
+          "x": 0.8366350446428574,
+          "y": 0.6380335365853655,
+          "w": 0.4023716517857143,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeBrokenRight",
+      "width": 3.0,
+      "height": 1.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -0.8074261675824174,
+          "y": 0.7133951822916664,
+          "w": 0.5059924450549447,
+          "h": 0.25
+        },
+        {
+          "x": -0.2206902472527471,
+          "y": 0.9991373697916663,
+          "w": 0.6674793956043958,
+          "h": 0.25
+        },
+        {
+          "x": 0.758997252747253,
+          "y": 1.2032389322916661,
+          "w": 1.2918956043956045,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeMovingDeck",
+      "width": 5.0,
+      "height": 1.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.6598979855371898,
+          "w": 5.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeTwinSupports",
+      "width": 5.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 2.0406794313524586,
+          "w": 5.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeSmall",
+      "width": 2.5,
+      "height": 1.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.6048708545918371,
+          "w": 2.5,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeCenterSupport",
+      "width": 4.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 2.0980009191176467,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeCheckpointBase",
+      "width": 6.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 2.05,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.268685867537314,
+          "w": 6.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeCrateBase",
+      "width": 6.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.9762801204819276,
+          "w": 6.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeThin",
+      "width": 5.0,
+      "height": 1.25,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 0.7467912946428564,
+          "w": 5.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "BridgeStairs",
+      "width": 6.0,
+      "height": 2.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": -0.8003970994475136,
+          "y": 1.0390625,
+          "w": 4.481664364640883,
+          "h": 0.25
+        },
+        {
+          "x": 1.6731785220994477,
+          "y": 0.7533203124999991,
+          "w": 0.4654868784530395,
+          "h": 0.25
+        },
+        {
+          "x": 2.1061895718232044,
+          "y": 0.477783203125,
+          "w": 0.4005352209944739,
+          "h": 0.25
+        },
+        {
+          "x": 2.485074240331492,
+          "y": 0.22265625,
+          "w": 0.3572341160221013,
+          "h": 0.25
+        },
+        {
+          "x": 2.7990072513812168,
+          "y": -0.012060546875000952,
+          "w": 0.2706319060773481,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "ColumnNarrow",
+      "width": 1.0,
+      "height": 4.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 3.707238605898123,
+          "w": 1.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "ColumnWide",
+      "width": 2.0,
+      "height": 4.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 3.6868,
+          "w": 2.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "SupportArch",
+      "width": 5.0,
+      "height": 4.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 3.1370451482479784,
+          "w": 5.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "TerminalPlatform",
+      "width": 4.0,
+      "height": 4.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0.9,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.3200813609467457,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "ColumnTall",
+      "width": 1.5,
+      "height": 4.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 3.8916015625,
+          "w": 1.5,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "CheckpointPlatform",
+      "width": 3.0,
+      "height": 3.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0.8,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.2114941406250004,
+          "w": 3.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "ExitPlatform",
+      "width": 4.0,
+      "height": 3.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.1291880498533726,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "CratePlatePlatform",
+      "width": 4.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.39482276119403,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "PierTall",
+      "width": 3.0,
+      "height": 3.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 2.8528539540816324,
+          "w": 3.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "PierDouble",
+      "width": 3.0,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 2.0963541666666665,
+          "w": 3.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "PierSingle",
+      "width": 2.5,
+      "height": 2.5,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 2.1666389627659575,
+          "w": 2.5,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "EnergyPlatform",
+      "width": 4.0,
+      "height": 3.0,
+      "decor": false,
+      "front": false,
+      "interactionX": 0,
+      "colliders": [
+        {
+          "x": 0,
+          "y": 1.5464365118577081,
+          "w": 4.0,
+          "h": 0.25
+        }
+      ]
+    },
+    {
+      "name": "NearScrapHeap",
+      "width": 8.0,
+      "height": 5.0,
+      "decor": true,
+      "front": true,
+      "interactionX": 0,
+      "colliders": []
+    },
+    {
+      "name": "NearBrokenTank",
+      "width": 6.0,
+      "height": 2.5,
+      "decor": true,
+      "front": true,
+      "interactionX": 0,
+      "colliders": []
+    },
+    {
+      "name": "NearCrane",
+      "width": 4.0,
+      "height": 6.0,
+      "decor": true,
+      "front": true,
+      "interactionX": 0,
+      "colliders": []
+    },
+    {
+      "name": "NearCoreFactory",
+      "width": 7.0,
+      "height": 6.0,
+      "decor": true,
+      "front": true,
+      "interactionX": 0,
+      "colliders": []
+    },
+    {
+      "name": "FarCity",
+      "width": 16.0,
+      "height": 10.0,
+      "decor": true,
+      "front": false,
+      "interactionX": 0,
+      "colliders": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# Unity-generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+*.csproj
+*.sln
+
+# Isolated background preview project and diagnostic logs
+/.work/
+/Artifacts/**/*.log
+
+# Local editors, generated builds, and presentation working files
+/.vscode/
+/.vs/
+/Build/
+/Builds/
+/Artifacts/
+/ppt_work/
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# Keep the presentation and demo guide, exclude duplicate delivery packages
+/Deliverables/*
+!/Deliverables/*.pptx
+
+# Local credentials must never be committed
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.gitee-token*

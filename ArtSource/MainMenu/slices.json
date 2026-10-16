@@ -1,0 +1,255 @@
+{
+  "Title": {
+    "size": [
+      1645,
+      652
+    ],
+    "source": "title",
+    "crop": [
+      286,
+      41,
+      1931,
+      693
+    ]
+  },
+  "Background": {
+    "size": [
+      1672,
+      941
+    ],
+    "source": "background",
+    "crop": null
+  },
+  "Foreground": {
+    "size": [
+      1672,
+      941
+    ],
+    "source": "foreground",
+    "crop": null
+  },
+  "LeftShadeMask": {
+    "size": [
+      1672,
+      1
+    ],
+    "source": "procedural transparency matte",
+    "crop": null
+  },
+  "ButtonSelected": {
+    "size": [
+      1097,
+      269
+    ],
+    "source": "buttons",
+    "crop": [
+      109,
+      239,
+      1206,
+      508
+    ]
+  },
+  "ButtonNormal": {
+    "size": [
+      1097,
+      269
+    ],
+    "source": "buttons",
+    "crop": [
+      109,
+      587,
+      1206,
+      856
+    ]
+  },
+  "SelectionArrow": {
+    "size": [
+      99,
+      131
+    ],
+    "source": "buttons",
+    "crop": [
+      1282,
+      479,
+      1381,
+      610
+    ]
+  },
+  "LabelStart": {
+    "size": [
+      785,
+      177
+    ],
+    "source": "labels",
+    "crop": [
+      332,
+      102,
+      1117,
+      279
+    ]
+  },
+  "LabelLevels": {
+    "size": [
+      665,
+      158
+    ],
+    "source": "labels",
+    "crop": [
+      395,
+      357,
+      1060,
+      515
+    ]
+  },
+  "LabelSettings": {
+    "size": [
+      323,
+      149
+    ],
+    "source": "labels",
+    "crop": [
+      564,
+      585,
+      887,
+      734
+    ]
+  },
+  "LabelQuit": {
+    "size": [
+      653,
+      145
+    ],
+    "source": "labels",
+    "crop": [
+      399,
+      789,
+      1052,
+      934
+    ]
+  },
+  "ControlHint": {
+    "size": [
+      1188,
+      72
+    ],
+    "source": "labels",
+    "crop": [
+      130,
+      969,
+      1318,
+      1041
+    ]
+  },
+  "LabelStartNormal": {
+    "size": [
+      785,
+      177
+    ],
+    "source": "LabelStart state color normalization",
+    "crop": null
+  },
+  "Station_0": {
+    "size": [
+      405,
+      594
+    ],
+    "source": "station",
+    "crop": [
+      80,
+      65,
+      485,
+      659
+    ]
+  },
+  "Station_1": {
+    "size": [
+      405,
+      594
+    ],
+    "source": "station",
+    "crop": [
+      623,
+      65,
+      1028,
+      659
+    ]
+  },
+  "Station_2": {
+    "size": [
+      405,
+      594
+    ],
+    "source": "station",
+    "crop": [
+      1166,
+      65,
+      1571,
+      659
+    ]
+  },
+  "Station_3": {
+    "size": [
+      405,
+      594
+    ],
+    "source": "station",
+    "crop": [
+      1709,
+      65,
+      2114,
+      659
+    ]
+  },
+  "Robot_0": {
+    "size": [
+      388,
+      452
+    ],
+    "source": "robot",
+    "crop": [
+      83,
+      158,
+      471,
+      610
+    ]
+  },
+  "Robot_1": {
+    "size": [
+      388,
+      452
+    ],
+    "source": "robot",
+    "crop": [
+      626,
+      158,
+      1014,
+      610
+    ]
+  },
+  "Robot_2": {
+    "size": [
+      388,
+      452
+    ],
+    "source": "robot",
+    "crop": [
+      1169,
+      158,
+      1557,
+      610
+    ]
+  },
+  "Robot_3": {
+    "size": [
+      388,
+      452
+    ],
+    "source": "robot",
+    "crop": [
+      1712,
+      158,
+      2100,
+      610
+    ]
+  }
+}

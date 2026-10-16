@@ -1,0 +1,2353 @@
+{
+  "GroundTopLeft": {
+    "sheet": "A",
+    "source_rect": [
+      34,
+      39,
+      163,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundTopA": {
+    "sheet": "A",
+    "source_rect": [
+      175,
+      39,
+      309,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundTopB": {
+    "sheet": "A",
+    "source_rect": [
+      322,
+      39,
+      459,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundTopC": {
+    "sheet": "A",
+    "source_rect": [
+      474,
+      39,
+      611,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundTopRight": {
+    "sheet": "A",
+    "source_rect": [
+      620,
+      39,
+      759,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundSingle": {
+    "sheet": "A",
+    "source_rect": [
+      769,
+      39,
+      905,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundFillA": {
+    "sheet": "A",
+    "source_rect": [
+      920,
+      39,
+      1055,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundFillB": {
+    "sheet": "A",
+    "source_rect": [
+      1066,
+      39,
+      1199,
+      176
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundSideLeft": {
+    "sheet": "A",
+    "source_rect": [
+      38,
+      181,
+      144,
+      324
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundSideRight": {
+    "sheet": "A",
+    "source_rect": [
+      196,
+      181,
+      300,
+      324
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundBottomLeft": {
+    "sheet": "A",
+    "source_rect": [
+      323,
+      181,
+      460,
+      325
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundBottomA": {
+    "sheet": "A",
+    "source_rect": [
+      473,
+      237,
+      611,
+      325
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundBottomRight": {
+    "sheet": "A",
+    "source_rect": [
+      621,
+      181,
+      759,
+      325
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundCornerInnerLeft": {
+    "sheet": "A",
+    "source_rect": [
+      769,
+      207,
+      905,
+      326
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundCornerInnerRight": {
+    "sheet": "A",
+    "source_rect": [
+      921,
+      210,
+      1058,
+      327
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GroundFillC": {
+    "sheet": "A",
+    "source_rect": [
+      1066,
+      181,
+      1199,
+      326
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "PlatformLeft": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      48,
+      518,
+      392,
+      645
+    ],
+    "native_size": [
+      64,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformA": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      390,
+      518,
+      698,
+      645
+    ],
+    "native_size": [
+      64,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformB": {
+    "sheet": "B",
+    "source_rect": [
+      336,
+      54,
+      491,
+      149
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "PlatformC": {
+    "sheet": "B",
+    "source_rect": [
+      493,
+      54,
+      650,
+      149
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "PlatformRight": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      698,
+      518,
+      983,
+      645
+    ],
+    "native_size": [
+      64,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformSingle": {
+    "sheet": "B",
+    "source_rect": [
+      843,
+      54,
+      1052,
+      150
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "RailLeft": {
+    "sheet": "B",
+    "source_rect": [
+      18,
+      181,
+      167,
+      253
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "RailMiddle": {
+    "sheet": "B",
+    "source_rect": [
+      176,
+      181,
+      328,
+      253
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "RailRight": {
+    "sheet": "B",
+    "source_rect": [
+      338,
+      181,
+      492,
+      253
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "SupportCap": {
+    "sheet": "B",
+    "source_rect": [
+      20,
+      294,
+      166,
+      451
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "SupportMiddle": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      140,
+      887,
+      267,
+      1080
+    ],
+    "native_size": [
+      16,
+      32
+    ],
+    "ppu": 32
+  },
+  "SupportBase": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      80,
+      1077,
+      312,
+      1189
+    ],
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "MovingPlatform": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      642,
+      665,
+      970,
+      775
+    ],
+    "native_size": [
+      80,
+      16
+    ],
+    "ppu": 32
+  },
+  "CableHorizontal": {
+    "sheet": "B",
+    "source_rect": [
+      13,
+      707,
+      157,
+      780
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableVertical": {
+    "sheet": "B",
+    "source_rect": [
+      192,
+      687,
+      242,
+      822
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableCornerSW": {
+    "sheet": "B",
+    "source_rect": [
+      343,
+      695,
+      441,
+      808
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableCornerSE": {
+    "sheet": "B",
+    "source_rect": [
+      500,
+      695,
+      593,
+      808
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableCornerNE": {
+    "sheet": "B",
+    "source_rect": [
+      632,
+      701,
+      729,
+      808
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableCornerNW": {
+    "sheet": "B",
+    "source_rect": [
+      782,
+      701,
+      885,
+      808
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableTerminalOff": {
+    "sheet": "B",
+    "source_rect": [
+      950,
+      701,
+      1030,
+      779
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CableTerminalOn": {
+    "sheet": "B",
+    "source_rect": [
+      1126,
+      700,
+      1209,
+      779
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CrateA": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      37,
+      198,
+      281,
+      416
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "CrateB": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      297,
+      246,
+      490,
+      416
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "WeightPlateOff": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      520,
+      336,
+      696,
+      417
+    ],
+    "native_size": [
+      32,
+      12
+    ],
+    "ppu": 32
+  },
+  "WeightPlateOn": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      717,
+      336,
+      910,
+      417
+    ],
+    "native_size": [
+      32,
+      12
+    ],
+    "ppu": 32
+  },
+  "LeverOff": {
+    "sheet": "C",
+    "source_rect": [
+      617,
+      127,
+      774,
+      260
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "LeverOn": {
+    "sheet": "C",
+    "source_rect": [
+      774,
+      127,
+      918,
+      260
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "WallButtonOff": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      47,
+      625,
+      219,
+      789
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "WallButtonOn": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      254,
+      625,
+      420,
+      789
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "GateClosed": {
+    "sheet": "C",
+    "source_rect": [
+      17,
+      294,
+      163,
+      686
+    ],
+    "native_size": [
+      32,
+      96
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "GateOpen": {
+    "sheet": "C",
+    "source_rect": [
+      170,
+      294,
+      344,
+      686
+    ],
+    "native_size": [
+      32,
+      96
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "CheckpointOff": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      923,
+      202,
+      1068,
+      416
+    ],
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "CheckpointOn": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1086,
+      202,
+      1235,
+      416
+    ],
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "ExitOff": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      780,
+      471,
+      996,
+      818
+    ],
+    "native_size": [
+      64,
+      96
+    ],
+    "ppu": 32
+  },
+  "ExitOn": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1010,
+      451,
+      1233,
+      818
+    ],
+    "native_size": [
+      64,
+      96
+    ],
+    "ppu": 32
+  },
+  "Fragment0": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1146,
+      1090,
+      1227,
+      1204
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "Fragment1": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1146,
+      1090,
+      1227,
+      1204
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "Fragment2": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1146,
+      1090,
+      1227,
+      1204
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "Fragment3": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      1146,
+      1090,
+      1227,
+      1204
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "Shield0": {
+    "sheet": "D",
+    "source_rect": [
+      653,
+      26,
+      733,
+      144
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "Shield1": {
+    "sheet": "D",
+    "source_rect": [
+      806,
+      26,
+      887,
+      144
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "JumpBoost0": {
+    "sheet": "D",
+    "source_rect": [
+      945,
+      26,
+      1053,
+      144
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "JumpBoost1": {
+    "sheet": "D",
+    "source_rect": [
+      1097,
+      26,
+      1205,
+      144
+    ],
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "SpikeLeft": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      43,
+      1072,
+      262,
+      1220
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeMiddle": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      269,
+      1090,
+      481,
+      1220
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeRight": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      481,
+      1072,
+      701,
+      1220
+    ],
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "HazardBarrel": {
+    "sheet": "D",
+    "source_rect": [
+      465,
+      167,
+      611,
+      442
+    ],
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32,
+    "fit": false
+  },
+  "Patrol0": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      380,
+      818,
+      532,
+      1062
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "Patrol1": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      380,
+      818,
+      532,
+      1062
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "Patrol2": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      380,
+      818,
+      532,
+      1062
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "Patrol3": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      380,
+      818,
+      532,
+      1062
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32
+  },
+  "DashFX0": {
+    "sheet": "D",
+    "source_rect": [
+      1,
+      493,
+      129,
+      592
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "DashFX1": {
+    "sheet": "D",
+    "source_rect": [
+      145,
+      493,
+      302,
+      592
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "DashFX2": {
+    "sheet": "D",
+    "source_rect": [
+      304,
+      493,
+      471,
+      592
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "DashFX3": {
+    "sheet": "D",
+    "source_rect": [
+      477,
+      493,
+      606,
+      592
+    ],
+    "native_size": [
+      32,
+      32
+    ],
+    "ppu": 32,
+    "fit": true
+  },
+  "Player0": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      116,
+      817,
+      311,
+      1060
+    ],
+    "native_size": [
+      32,
+      48
+    ],
+    "ppu": 32
+  },
+  "Player1": {
+    "revision": 2,
+    "sheet": "Props",
+    "source_rect_1280": [
+      116,
+      817,
+      311,
+      1060
+    ],
+    "native_size": [
+      32,
+      48
+    ],
+    "ppu": 32
+  },
+  "GroundTopA_8": {
+    "derived_from": "GroundTopA",
+    "native_size": [
+      8,
+      32
+    ],
+    "ppu": 32
+  },
+  "GroundFillA_8": {
+    "derived_from": "GroundFillA",
+    "native_size": [
+      8,
+      32
+    ],
+    "ppu": 32
+  },
+  "PlatformA_8": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "GroundTopA_16": {
+    "derived_from": "GroundTopA",
+    "native_size": [
+      16,
+      32
+    ],
+    "ppu": 32
+  },
+  "GroundFillA_16": {
+    "derived_from": "GroundFillA",
+    "native_size": [
+      16,
+      32
+    ],
+    "ppu": 32
+  },
+  "PlatformA_16": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "GroundTopA_24": {
+    "derived_from": "GroundTopA",
+    "native_size": [
+      24,
+      32
+    ],
+    "ppu": 32
+  },
+  "GroundFillA_24": {
+    "derived_from": "GroundFillA",
+    "native_size": [
+      24,
+      32
+    ],
+    "ppu": 32
+  },
+  "PlatformA_24": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "Backdrop": {
+    "derived_from": "supplied menu background",
+    "native_size": [
+      640,
+      360
+    ],
+    "ppu": 32
+  },
+  "GroundModule0": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      43,
+      77,
+      263,
+      306
+    ],
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      267,
+      77,
+      501,
+      306
+    ],
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      505,
+      77,
+      738,
+      306
+    ],
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      735,
+      77,
+      983,
+      310
+    ],
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4": {
+    "revision": 2,
+    "sheet": "Terrain",
+    "source_rect_1280": [
+      988,
+      77,
+      1205,
+      310
+    ],
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_8": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      8,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_16": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      16,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_24": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      24,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_32": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_40": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      40,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_48": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      48,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule0_56": {
+    "derived_from": "GroundModule0",
+    "native_size": [
+      56,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_8": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      8,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_16": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      16,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_24": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      24,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_32": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_40": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      40,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_48": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      48,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule1_56": {
+    "derived_from": "GroundModule1",
+    "native_size": [
+      56,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_8": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      8,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_16": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      16,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_24": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      24,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_32": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_40": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      40,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_48": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      48,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule2_56": {
+    "derived_from": "GroundModule2",
+    "native_size": [
+      56,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_8": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      8,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_16": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      16,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_24": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      24,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_32": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_40": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      40,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_48": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      48,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule3_56": {
+    "derived_from": "GroundModule3",
+    "native_size": [
+      56,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_8": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      8,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_16": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      16,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_24": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      24,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_32": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      32,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_40": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      40,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_48": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      48,
+      64
+    ],
+    "ppu": 32
+  },
+  "GroundModule4_56": {
+    "derived_from": "GroundModule4",
+    "native_size": [
+      56,
+      64
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_8": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_16": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_24": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_32": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_40": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      40,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_48": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      48,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformLeft_56": {
+    "derived_from": "PlatformLeft",
+    "native_size": [
+      56,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformA_32": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformA_40": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      40,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformA_48": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      48,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformA_56": {
+    "derived_from": "PlatformA",
+    "native_size": [
+      56,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_8": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_16": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_24": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_32": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      32,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_40": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      40,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_48": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      48,
+      16
+    ],
+    "ppu": 32
+  },
+  "PlatformRight_56": {
+    "derived_from": "PlatformRight",
+    "native_size": [
+      56,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeLeft_8": {
+    "derived_from": "SpikeLeft",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeLeft_16": {
+    "derived_from": "SpikeLeft",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeLeft_24": {
+    "derived_from": "SpikeLeft",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeMiddle_8": {
+    "derived_from": "SpikeMiddle",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeMiddle_16": {
+    "derived_from": "SpikeMiddle",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeMiddle_24": {
+    "derived_from": "SpikeMiddle",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeRight_8": {
+    "derived_from": "SpikeRight",
+    "native_size": [
+      8,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeRight_16": {
+    "derived_from": "SpikeRight",
+    "native_size": [
+      16,
+      16
+    ],
+    "ppu": 32
+  },
+  "SpikeRight_24": {
+    "derived_from": "SpikeRight",
+    "native_size": [
+      24,
+      16
+    ],
+    "ppu": 32
+  },
+  "SupportHeight_32": {
+    "derived_from": "SupportMiddle",
+    "native_size": [
+      16,
+      32
+    ],
+    "ppu": 32
+  },
+  "SupportHeight_40": {
+    "derived_from": "SupportMiddle",
+    "native_size": [
+      16,
+      40
+    ],
+    "ppu": 32
+  },
+  "SupportHeight_96": {
+    "derived_from": "SupportMiddle",
+    "native_size": [
+      16,
+      96
+    ],
+    "ppu": 32
+  },
+  "GroundWide_A": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      192,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      24,
+      64,
+      617,
+      260
+    ]
+  },
+  "GroundWide_B": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      192,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      637,
+      64,
+      1199,
+      260
+    ]
+  },
+  "GroundRaised": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      192,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      24,
+      263,
+      612,
+      500
+    ]
+  },
+  "GroundPlateBase": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      192,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      632,
+      294,
+      1207,
+      502
+    ]
+  },
+  "GroundCantileverLeft": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      128,
+      72
+    ],
+    "ppu": 32,
+    "source_rect": [
+      24,
+      508,
+      420,
+      732
+    ]
+  },
+  "GroundCenterPier": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      128,
+      72
+    ],
+    "ppu": 32,
+    "source_rect": [
+      461,
+      508,
+      817,
+      735
+    ]
+  },
+  "GroundCantileverRight": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      128,
+      72
+    ],
+    "ppu": 32,
+    "source_rect": [
+      870,
+      519,
+      1216,
+      735
+    ]
+  },
+  "GroundSteps": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      128,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      24,
+      742,
+      416,
+      989
+    ]
+  },
+  "GroundLowStep": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      160,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      438,
+      747,
+      915,
+      989
+    ]
+  },
+  "GroundPier": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      64,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      992,
+      762,
+      1200,
+      957
+    ]
+  },
+  "GroundLong": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      224,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      22,
+      1025,
+      725,
+      1213
+    ]
+  },
+  "GroundExitBase": {
+    "sheet": "Catalog/0",
+    "native_size": [
+      160,
+      96
+    ],
+    "ppu": 32,
+    "source_rect": [
+      755,
+      947,
+      1209,
+      1213
+    ]
+  },
+  "BridgeLong_A": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      320,
+      48
+    ],
+    "ppu": 32,
+    "source_rect": [
+      29,
+      10,
+      1205,
+      191
+    ]
+  },
+  "BridgeLong_B": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      320,
+      48
+    ],
+    "ppu": 32,
+    "source_rect": [
+      28,
+      186,
+      1205,
+      361
+    ]
+  },
+  "BridgeBrokenLeft": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      96,
+      48
+    ],
+    "ppu": 32,
+    "source_rect": [
+      27,
+      359,
+      381,
+      538
+    ]
+  },
+  "BridgeBrokenRight": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      96,
+      48
+    ],
+    "ppu": 32,
+    "source_rect": [
+      381,
+      359,
+      669,
+      538
+    ]
+  },
+  "BridgeMovingDeck": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      160,
+      40
+    ],
+    "ppu": 32,
+    "source_rect": [
+      671,
+      362,
+      1210,
+      524
+    ]
+  },
+  "BridgeTwinSupports": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      160,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      27,
+      540,
+      540,
+      808
+    ]
+  },
+  "BridgeSmall": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      80,
+      40
+    ],
+    "ppu": 32,
+    "source_rect": [
+      531,
+      606,
+      796,
+      753
+    ]
+  },
+  "BridgeCenterSupport": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      128,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      789,
+      532,
+      1219,
+      814
+    ]
+  },
+  "BridgeCheckpointBase": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      192,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      24,
+      769,
+      618,
+      1037
+    ]
+  },
+  "BridgeCrateBase": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      192,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      633,
+      762,
+      1213,
+      1011
+    ]
+  },
+  "BridgeThin": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      160,
+      40
+    ],
+    "ppu": 32,
+    "source_rect": [
+      48,
+      1034,
+      596,
+      1188
+    ]
+  },
+  "BridgeStairs": {
+    "sheet": "Catalog/1",
+    "native_size": [
+      192,
+      64
+    ],
+    "ppu": 32,
+    "source_rect": [
+      644,
+      1017,
+      1219,
+      1209
+    ]
+  },
+  "ColumnNarrow": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      32,
+      128
+    ],
+    "ppu": 32,
+    "source_rect": [
+      20,
+      87,
+      175,
+      471
+    ]
+  },
+  "ColumnWide": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      64,
+      128
+    ],
+    "ppu": 32,
+    "source_rect": [
+      186,
+      87,
+      420,
+      471
+    ]
+  },
+  "SupportArch": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      160,
+      128
+    ],
+    "ppu": 32,
+    "source_rect": [
+      413,
+      101,
+      881,
+      474
+    ]
+  },
+  "TerminalPlatform": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      128,
+      128
+    ],
+    "ppu": 32,
+    "source_rect": [
+      866,
+      102,
+      1217,
+      468
+    ]
+  },
+  "ColumnTall": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      48,
+      144
+    ],
+    "ppu": 32,
+    "source_rect": [
+      1037,
+      477,
+      1218,
+      903
+    ]
+  },
+  "CheckpointPlatform": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      96,
+      112
+    ],
+    "ppu": 32,
+    "source_rect": [
+      377,
+      509,
+      650,
+      855
+    ]
+  },
+  "ExitPlatform": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      128,
+      112
+    ],
+    "ppu": 32,
+    "source_rect": [
+      642,
+      497,
+      1058,
+      855
+    ]
+  },
+  "CratePlatePlatform": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      128,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      26,
+      624,
+      367,
+      855
+    ]
+  },
+  "PierTall": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      96,
+      112
+    ],
+    "ppu": 32,
+    "source_rect": [
+      20,
+      857,
+      362,
+      1200
+    ]
+  },
+  "PierDouble": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      96,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      333,
+      930,
+      611,
+      1200
+    ]
+  },
+  "PierSingle": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      80,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      599,
+      938,
+      843,
+      1200
+    ]
+  },
+  "EnergyPlatform": {
+    "sheet": "Catalog/2",
+    "native_size": [
+      128,
+      96
+    ],
+    "ppu": 32,
+    "source_rect": [
+      864,
+      921,
+      1215,
+      1200
+    ]
+  },
+  "NearScrapHeap": {
+    "sheet": "Catalog/3",
+    "native_size": [
+      256,
+      160
+    ],
+    "ppu": 32,
+    "source_rect": [
+      0,
+      0,
+      862,
+      547
+    ]
+  },
+  "NearBrokenTank": {
+    "sheet": "Catalog/3",
+    "native_size": [
+      192,
+      80
+    ],
+    "ppu": 32,
+    "source_rect": [
+      660,
+      179,
+      1226,
+      438
+    ]
+  },
+  "NearCrane": {
+    "sheet": "Catalog/3",
+    "native_size": [
+      128,
+      192
+    ],
+    "ppu": 32,
+    "source_rect": [
+      15,
+      557,
+      456,
+      1205
+    ]
+  },
+  "NearCoreFactory": {
+    "sheet": "Catalog/3",
+    "native_size": [
+      224,
+      192
+    ],
+    "ppu": 32,
+    "source_rect": [
+      495,
+      558,
+      1234,
+      1205
+    ]
+  },
+  "FarCity": {
+    "sheet": "Catalog/4",
+    "native_size": [
+      512,
+      320
+    ],
+    "ppu": 32,
+    "source_rect": [
+      0,
+      0,
+      1254,
+      1254
+    ]
+  },
+  "BatteryWorld": {
+    "native_size": [
+      16,
+      24
+    ],
+    "ppu": 32
+  }
+}

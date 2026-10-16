@@ -1,0 +1,61 @@
+PASS: Level 1 runtime bindings
+PASS: Level 1 independent HUD
+PASS: Level 1 reduced charger count
+PASS: Level 1 single exit
+PASS: Level 1 signal event target
+PASS: Level 1 signal event target
+PASS: Level 1 signal event target
+PASS: Level 2 runtime bindings
+PASS: Level 2 independent HUD
+PASS: Level 2 reduced charger count
+PASS: Level 2 single exit
+PASS: Level 2 signal event target
+PASS: Level 2 signal event target
+PASS: Level 2 signal event target
+PASS: Level 2 signal event target
+PASS: Level 3 runtime bindings
+PASS: Level 3 independent HUD
+PASS: Level 3 reduced charger count
+PASS: Level 3 single exit
+PASS: Level 3 signal event target
+PASS: Level 3 signal event target
+PASS: Tower camera follows vertical movement
+PASS: Summit exit at height 19.5
+PASS: Tower floor 0
+PASS: Tower floor 6
+PASS: Tower floor 12
+PASS: Tower floor 19.5
+PASS: Child module moves parent composite geometry
+PASS: Composite surface bound to platform effector
+PASS: Jump origin grounded (2.40, 0.00) actual=(2.40, 0.01)
+PASS: Jump impulse (2.40, 0.00)
+PASS: Reachable jump (2.40, 0.00) -> (4.00, 1.50) final=(4.02, 1.51) feet=1.514948 peak=2.104828 velocity=(0.00, 0.00)
+PASS: Jump origin grounded (5.30, 1.50) actual=(5.30, 1.52)
+PASS: Jump impulse (5.30, 1.50)
+PASS: Reachable jump (5.30, 1.50) -> (7.50, 3.00) final=(7.46, 3.01) feet=3.014947 peak=3.604827 velocity=(4.50, 0.00)
+PASS: Jump origin grounded (8.80, 3.00) actual=(8.80, 3.02)
+PASS: Jump impulse (8.80, 3.00)
+PASS: Reachable jump (8.80, 3.00) -> (11.00, 4.50) final=(10.96, 4.51) feet=4.514947 peak=5.104828 velocity=(4.50, 0.00)
+PASS: Jump origin grounded (12.00, 4.50) actual=(12.00, 4.52)
+PASS: Jump impulse (12.00, 4.50)
+PASS: Reachable jump (12.00, 4.50) -> (14.00, 6.00) final=(13.98, 6.01) feet=6.014938 peak=6.604828 velocity=(0.00, 0.00)
+PASS: Jump origin grounded (12.10, 12.00) actual=(12.10, 12.02)
+PASS: Jump impulse (12.10, 12.00)
+PASS: Reachable jump (12.10, 12.00) -> (11.00, 13.50) final=(11.02, 13.51) feet=13.51495 peak=14.10483 velocity=(0.00, 0.00)
+PASS: Jump origin grounded (9.70, 13.50) actual=(9.70, 13.52)
+PASS: Jump impulse (9.70, 13.50)
+PASS: Reachable jump (9.70, 13.50) -> (7.50, 15.00) final=(7.54, 15.01) feet=15.01495 peak=15.60483 velocity=(-4.50, 0.00)
+PASS: Jump origin grounded (6.20, 15.00) actual=(6.20, 15.02)
+PASS: Jump impulse (6.20, 15.00)
+PASS: Reachable jump (6.20, 15.00) -> (4.00, 16.50) final=(4.04, 16.51) feet=16.51495 peak=17.10483 velocity=(-4.50, 0.00)
+PASS: Jump origin grounded (5.30, 16.50) actual=(5.30, 16.52)
+PASS: Jump impulse (5.30, 16.50)
+PASS: Reachable jump (5.30, 16.50) -> (7.00, 18.00) final=(5.57, 17.99) feet=17.98504 peak=17.98504 velocity=(4.50, 0.00)
+PASS: Jump origin grounded (6.70, 18.00) actual=(6.70, 18.02)
+PASS: Jump impulse (6.70, 18.00)
+PASS: Reachable jump (6.70, 18.00) -> (5.40, 19.50) final=(5.44, 19.51) feet=19.51496 peak=20.10483 velocity=(0.00, 0.00)
+PASS: Powered lift physically reaches upper landing
+PASS: Jump origin grounded (18.10, 12.00) actual=(18.10, 11.86)
+PASS: Jump impulse (18.10, 12.00)
+PASS: Reachable jump (18.10, 12.00) -> (15.50, 12.00) final=(15.49, 12.01) feet=12.01496 peak=13.94758 velocity=(0.00, 0.00)
+PASS: Summit power switch opens gate collider

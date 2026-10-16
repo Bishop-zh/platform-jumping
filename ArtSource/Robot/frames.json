@@ -1,0 +1,21 @@
+{
+  "ppu": 32,
+  "canvas": [
+    64,
+    64
+  ],
+  "mirrored_idle_indices": [
+    12,
+    14,
+    16,
+    22
+  ],
+  "outline": "Restore one native pixel dark silhouette after opaque-background extraction; preserve authored alpha when available",
+  "frames": {
+    "Charge": 4,
+    "Run": 24,
+    "Jump": 24,
+    "Death": 24,
+    "Idle": 24
+  }
+}

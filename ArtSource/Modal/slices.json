@@ -1,0 +1,1047 @@
+{
+  "CommonBody": {
+    "source": "panels_b",
+    "region": [
+      0,
+      170,
+      855,
+      570
+    ],
+    "tight": [
+      31,
+      0,
+      847,
+      387
+    ],
+    "size": [
+      816,
+      387
+    ]
+  },
+  "CommonHeader": {
+    "source": "headers",
+    "region": [
+      0,
+      80,
+      1448,
+      400
+    ],
+    "tight": [
+      81,
+      23,
+      1367,
+      291
+    ],
+    "size": [
+      1286,
+      268
+    ]
+  },
+  "InnerPanel": {
+    "source": "panels_a",
+    "region": [
+      850,
+      360,
+      1448,
+      680
+    ],
+    "tight": [
+      14,
+      20,
+      565,
+      299
+    ],
+    "size": [
+      551,
+      279
+    ]
+  },
+  "InfoStrip": {
+    "source": "panels_a",
+    "region": [
+      850,
+      680,
+      1448,
+      800
+    ],
+    "tight": [
+      26,
+      9,
+      553,
+      99
+    ],
+    "size": [
+      527,
+      90
+    ]
+  },
+  "ButtonSelected": {
+    "source": "buttons",
+    "region": [
+      20,
+      300,
+      740,
+      550
+    ],
+    "tight": [
+      28,
+      25,
+      704,
+      232
+    ],
+    "size": [
+      676,
+      207
+    ]
+  },
+  "ButtonNormal": {
+    "source": "buttons",
+    "region": [
+      740,
+      300,
+      1420,
+      550
+    ],
+    "tight": [
+      20,
+      25,
+      660,
+      232
+    ],
+    "size": [
+      640,
+      207
+    ]
+  },
+  "Rail": {
+    "source": "victory_preview",
+    "region": [
+      484,
+      0,
+      518,
+      138
+    ],
+    "tight": [
+      0,
+      0,
+      34,
+      138
+    ],
+    "size": [
+      34,
+      138
+    ]
+  },
+  "VictoryIcon": {
+    "source": "victory_labels",
+    "region": [
+      745,
+      885,
+      895,
+      1035
+    ],
+    "tight": [
+      23,
+      20,
+      140,
+      136
+    ],
+    "size": [
+      117,
+      116
+    ]
+  },
+  "VictoryTitle": {
+    "source": "victory_labels",
+    "region": [
+      245,
+      135,
+      1210,
+      405
+    ],
+    "tight": [
+      23,
+      19,
+      945,
+      250
+    ],
+    "size": [
+      922,
+      231
+    ]
+  },
+  "NextLabel": {
+    "source": "panels_b",
+    "region": [
+      125,
+      975,
+      330,
+      1070
+    ],
+    "tight": [
+      0,
+      0,
+      205,
+      79
+    ],
+    "size": [
+      205,
+      79
+    ]
+  },
+  "ReplayLabel": {
+    "source": "victory_labels",
+    "region": [
+      495,
+      475,
+      940,
+      625
+    ],
+    "tight": [
+      26,
+      24,
+      427,
+      135
+    ],
+    "size": [
+      401,
+      111
+    ]
+  },
+  "LevelsLabel": {
+    "source": "victory_labels",
+    "region": [
+      975,
+      475,
+      1410,
+      625
+    ],
+    "tight": [
+      27,
+      25,
+      416,
+      135
+    ],
+    "size": [
+      389,
+      110
+    ]
+  },
+  "CollectIcon": {
+    "source": "victory_labels",
+    "region": [
+      25,
+      690,
+      170,
+      845
+    ],
+    "tight": [
+      22,
+      18,
+      132,
+      135
+    ],
+    "size": [
+      110,
+      117
+    ]
+  },
+  "TimeIcon": {
+    "source": "victory_labels",
+    "region": [
+      490,
+      690,
+      650,
+      845
+    ],
+    "tight": [
+      29,
+      20,
+      143,
+      138
+    ],
+    "size": [
+      114,
+      118
+    ]
+  },
+  "DeathIcon": {
+    "source": "victory_labels",
+    "region": [
+      975,
+      690,
+      1125,
+      845
+    ],
+    "tight": [
+      23,
+      20,
+      129,
+      135
+    ],
+    "size": [
+      106,
+      115
+    ]
+  },
+  "CollectLabel": {
+    "source": "victory_labels",
+    "region": [
+      165,
+      700,
+      485,
+      845
+    ],
+    "tight": [
+      14,
+      29,
+      294,
+      114
+    ],
+    "size": [
+      280,
+      85
+    ]
+  },
+  "TimeLabel": {
+    "source": "victory_labels",
+    "region": [
+      645,
+      700,
+      950,
+      845
+    ],
+    "tight": [
+      7,
+      29,
+      284,
+      111
+    ],
+    "size": [
+      277,
+      82
+    ]
+  },
+  "DeathLabel": {
+    "source": "victory_labels",
+    "region": [
+      1115,
+      700,
+      1430,
+      845
+    ],
+    "tight": [
+      12,
+      29,
+      292,
+      110
+    ],
+    "size": [
+      280,
+      81
+    ]
+  },
+  "UnlockedLabel": {
+    "source": "victory_labels",
+    "region": [
+      35,
+      890,
+      715,
+      1030
+    ],
+    "tight": [
+      29,
+      32,
+      671,
+      117
+    ],
+    "size": [
+      642,
+      85
+    ]
+  },
+  "FailureTitle": {
+    "source": "failure_preview",
+    "region": [
+      723,
+      173,
+      1064,
+      255
+    ],
+    "tight": [
+      12,
+      12,
+      321,
+      73
+    ],
+    "size": [
+      309,
+      61
+    ]
+  },
+  "FailureIcon": {
+    "source": "failure_preview",
+    "region": [
+      613,
+      167,
+      715,
+      265
+    ],
+    "tight": [
+      8,
+      7,
+      96,
+      92
+    ],
+    "size": [
+      88,
+      85
+    ]
+  },
+  "FailureSubtitle": {
+    "source": "failure_preview",
+    "region": [
+      697,
+      266,
+      982,
+      305
+    ],
+    "tight": [
+      11,
+      3,
+      273,
+      33
+    ],
+    "size": [
+      262,
+      30
+    ]
+  },
+  "RetryLabel": {
+    "source": "failure_preview",
+    "region": [
+      740,
+      349,
+      955,
+      405
+    ],
+    "tight": [
+      12,
+      9,
+      201,
+      47
+    ],
+    "size": [
+      189,
+      38
+    ]
+  },
+  "RestartLabel": {
+    "source": "failure_preview",
+    "region": [
+      715,
+      447,
+      965,
+      507
+    ],
+    "tight": [
+      11,
+      9,
+      236,
+      46
+    ],
+    "size": [
+      225,
+      37
+    ]
+  },
+  "MainMenuLabel": {
+    "source": "failure_preview",
+    "region": [
+      712,
+      647,
+      964,
+      706
+    ],
+    "tight": [
+      33,
+      8,
+      220,
+      45
+    ],
+    "size": [
+      187,
+      37
+    ]
+  },
+  "SettingsTitle": {
+    "source": "settings",
+    "region": [
+      1220,
+      75,
+      1430,
+      190
+    ],
+    "tight": [
+      22,
+      23,
+      184,
+      103
+    ],
+    "size": [
+      162,
+      80
+    ]
+  },
+  "MusicLabel": {
+    "source": "settings",
+    "region": [
+      775,
+      225,
+      1000,
+      310
+    ],
+    "tight": [
+      24,
+      18,
+      205,
+      71
+    ],
+    "size": [
+      181,
+      53
+    ]
+  },
+  "SfxLabel": {
+    "source": "settings",
+    "region": [
+      775,
+      330,
+      1000,
+      420
+    ],
+    "tight": [
+      24,
+      20,
+      205,
+      74
+    ],
+    "size": [
+      181,
+      54
+    ]
+  },
+  "FullscreenLabel": {
+    "source": "settings",
+    "region": [
+      775,
+      455,
+      1000,
+      545
+    ],
+    "tight": [
+      24,
+      19,
+      205,
+      73
+    ],
+    "size": [
+      181,
+      54
+    ]
+  },
+  "Track": {
+    "source": "settings",
+    "region": [
+      1020,
+      238,
+      1350,
+      301
+    ],
+    "tight": [
+      15,
+      15,
+      308,
+      55
+    ],
+    "size": [
+      293,
+      40
+    ]
+  },
+  "Fill": {
+    "source": "settings",
+    "region": [
+      1020,
+      300,
+      1280,
+      351
+    ],
+    "tight": [
+      15,
+      9,
+      235,
+      46
+    ],
+    "size": [
+      220,
+      37
+    ]
+  },
+  "Handle": {
+    "source": "settings",
+    "region": [
+      1350,
+      280,
+      1448,
+      360
+    ],
+    "tight": [
+      15,
+      10,
+      61,
+      68
+    ],
+    "size": [
+      46,
+      58
+    ]
+  },
+  "Checkbox": {
+    "source": "settings",
+    "region": [
+      1015,
+      485,
+      1125,
+      590
+    ],
+    "tight": [
+      22,
+      16,
+      94,
+      91
+    ],
+    "size": [
+      72,
+      75
+    ]
+  },
+  "Checkmark": {
+    "source": "settings",
+    "region": [
+      1125,
+      490,
+      1225,
+      585
+    ],
+    "tight": [
+      19,
+      15,
+      83,
+      71
+    ],
+    "size": [
+      64,
+      56
+    ]
+  },
+  "ControlsTitle": {
+    "source": "settings",
+    "region": [
+      870,
+      620,
+      1070,
+      690
+    ],
+    "tight": [
+      15,
+      12,
+      176,
+      49
+    ],
+    "size": [
+      161,
+      37
+    ]
+  },
+  "MoveHint": {
+    "source": "settings",
+    "region": [
+      1145,
+      675,
+      1448,
+      740
+    ],
+    "tight": [
+      16,
+      13,
+      288,
+      52
+    ],
+    "size": [
+      272,
+      39
+    ]
+  },
+  "JumpHint": {
+    "source": "settings",
+    "region": [
+      1145,
+      735,
+      1340,
+      800
+    ],
+    "tight": [
+      17,
+      15,
+      175,
+      54
+    ],
+    "size": [
+      158,
+      39
+    ]
+  },
+  "DashHint": {
+    "source": "settings",
+    "region": [
+      1145,
+      790,
+      1365,
+      850
+    ],
+    "tight": [
+      17,
+      13,
+      199,
+      53
+    ],
+    "size": [
+      182,
+      40
+    ]
+  },
+  "PauseHint": {
+    "source": "settings",
+    "region": [
+      1145,
+      842,
+      1340,
+      905
+    ],
+    "tight": [
+      18,
+      0,
+      193,
+      49
+    ],
+    "size": [
+      175,
+      49
+    ]
+  },
+  "DefaultsLabel": {
+    "source": "settings",
+    "region": [
+      920,
+      925,
+      1135,
+      1015
+    ],
+    "tight": [
+      19,
+      28,
+      187,
+      77
+    ],
+    "size": [
+      168,
+      49
+    ]
+  },
+  "BackLabel": {
+    "source": "settings",
+    "region": [
+      1180,
+      925,
+      1310,
+      1015
+    ],
+    "tight": [
+      13,
+      29,
+      105,
+      79
+    ],
+    "size": [
+      92,
+      50
+    ]
+  },
+  "Digit0": {
+    "source": "digits",
+    "region": [
+      44,
+      122,
+      264,
+      377
+    ],
+    "tight": [
+      19,
+      19,
+      214,
+      246
+    ],
+    "size": [
+      195,
+      227
+    ]
+  },
+  "Digit1": {
+    "source": "digits",
+    "region": [
+      279,
+      122,
+      499,
+      377
+    ],
+    "tight": [
+      38,
+      17,
+      193,
+      246
+    ],
+    "size": [
+      155,
+      229
+    ]
+  },
+  "Digit2": {
+    "source": "digits",
+    "region": [
+      514,
+      122,
+      734,
+      377
+    ],
+    "tight": [
+      18,
+      19,
+      205,
+      246
+    ],
+    "size": [
+      187,
+      227
+    ]
+  },
+  "Digit3": {
+    "source": "digits",
+    "region": [
+      749,
+      122,
+      969,
+      377
+    ],
+    "tight": [
+      32,
+      18,
+      219,
+      246
+    ],
+    "size": [
+      187,
+      228
+    ]
+  },
+  "Digit4": {
+    "source": "digits",
+    "region": [
+      979,
+      122,
+      1195,
+      377
+    ],
+    "tight": [
+      32,
+      18,
+      216,
+      246
+    ],
+    "size": [
+      184,
+      228
+    ]
+  },
+  "Digit5": {
+    "source": "digits",
+    "region": [
+      44,
+      435,
+      264,
+      690
+    ],
+    "tight": [
+      22,
+      23,
+      211,
+      248
+    ],
+    "size": [
+      189,
+      225
+    ]
+  },
+  "Digit6": {
+    "source": "digits",
+    "region": [
+      279,
+      435,
+      499,
+      690
+    ],
+    "tight": [
+      21,
+      23,
+      209,
+      248
+    ],
+    "size": [
+      188,
+      225
+    ]
+  },
+  "Digit7": {
+    "source": "digits",
+    "region": [
+      514,
+      435,
+      734,
+      690
+    ],
+    "tight": [
+      18,
+      23,
+      207,
+      248
+    ],
+    "size": [
+      189,
+      225
+    ]
+  },
+  "Digit8": {
+    "source": "digits",
+    "region": [
+      749,
+      435,
+      969,
+      690
+    ],
+    "tight": [
+      18,
+      23,
+      210,
+      248
+    ],
+    "size": [
+      192,
+      225
+    ]
+  },
+  "Digit9": {
+    "source": "digits",
+    "region": [
+      979,
+      435,
+      1195,
+      690
+    ],
+    "tight": [
+      26,
+      22,
+      211,
+      248
+    ],
+    "size": [
+      185,
+      226
+    ]
+  },
+  "Colon": {
+    "source": "digits",
+    "region": [
+      58,
+      744,
+      191,
+      969
+    ],
+    "tight": [
+      30,
+      53,
+      108,
+      224
+    ],
+    "size": [
+      78,
+      171
+    ]
+  },
+  "Slash": {
+    "source": "digits",
+    "region": [
+      254,
+      739,
+      411,
+      969
+    ],
+    "tight": [
+      0,
+      29,
+      129,
+      230
+    ],
+    "size": [
+      129,
+      201
+    ]
+  },
+  "Percent": {
+    "source": "settings_preview",
+    "region": [
+      1124,
+      240,
+      1157,
+      276
+    ],
+    "tight": [
+      3,
+      5,
+      24,
+      30
+    ],
+    "size": [
+      21,
+      25
+    ]
+  },
+  "Minus": {
+    "source": "digits",
+    "region": [
+      426,
+      813,
+      627,
+      920
+    ],
+    "tight": [
+      20,
+      29,
+      188,
+      99
+    ],
+    "size": [
+      168,
+      70
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+Scene 1 loads with player/session
+Scene 1 collectible total
+Scene 1 battery total derived from editable map
+HUD settings button pauses scene
+Closing settings resumes scene
+Scene 1 grounded collider
+Crate prefab derives reset position and bounds from its placement
+Platform prefab derives travel endpoints from its placement
+Ordinary jump crosses 2-unit pit
+Dash jump crosses 3.25-unit pit
+Long pit cannot be crossed by the same ordinary jump
+Closed door physically blocks the player
+Spike trigger causes death through actual physics contact
+Battery-powered plate rejects activation without a battery
+Battery trigger fills inventory and collection count
+Physical crate push latches pressure plate
+Plate opens and disables gate collider
+Power installation consumes inventory but preserves collection statistics
+Repeated activation does not spend twice
+Toggle input turns off without refunding installed battery
+Installed toggle input turns on again without spending twice
+Void triggers failure once
+Checkpoint keeps collection and latched puzzle
+Full restart clears puzzle and both battery counters
+Fragment trigger scores once and disables pickup
+Scene 1 exit trigger opens victory
+Scene 1 completion recorded
+Victory is reachable with an empty battery bag after installation
+Scene 2 loads with player/session
+Scene 2 collectible total
+Scene 2 battery total derived from editable map
+HUD settings button pauses scene
+Closing settings resumes scene
+Scene 2 grounded collider
+Battery-fed lever interaction powers moving platform
+Platform waiting frame has no passenger displacement
+Moving platform carries standing player
+Shield absorbs one contact hit
+Shield does not prevent void death
+Scene 2 exit trigger opens victory
+Scene 2 completion recorded
+Victory is reachable with an empty battery bag after installation
+Scene 3 loads with player/session
+Scene 3 collectible total
+Scene 3 battery total derived from editable map
+HUD settings button pauses scene
+Closing settings resumes scene
+Scene 3 grounded collider
+Final gate remains closed with only one input
+Final gate requires both inputs
+Dash jump reaches raised landing
+Scene 3 exit trigger opens victory
+Scene 3 completion recorded
+Victory is reachable with an empty battery bag after installation
+Victory returns to the active level selection screen
+Level selection enter button loads the selected map scene
+Next level action loads scene 2
+Return main menu action restores the home screen
+Main menu start resumes the last played map

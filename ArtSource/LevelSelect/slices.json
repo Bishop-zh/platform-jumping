@@ -1,0 +1,292 @@
+{
+  "Background": {
+    "source": "background",
+    "region": null,
+    "size": [
+      1672,
+      941
+    ]
+  },
+  "Foreground": {
+    "source": "foreground",
+    "region": null,
+    "size": [
+      1672,
+      941
+    ]
+  },
+  "Header": {
+    "source": "header",
+    "region": null,
+    "size": [
+      1828,
+      679
+    ]
+  },
+  "CardUnlocked": {
+    "source": "blank",
+    "region": null,
+    "size": [
+      1012,
+      1192
+    ]
+  },
+  "CardLocked": {
+    "source": "clean_locked",
+    "region": null,
+    "size": [
+      1012,
+      1192
+    ]
+  },
+  "LockIcon": {
+    "source": "locked3",
+    "region": [
+      510,
+      765,
+      645,
+      905
+    ],
+    "size": [
+      135,
+      140
+    ]
+  },
+  "LockedStatusPlate": {
+    "source": "locked3",
+    "region": [
+      210,
+      915,
+      935,
+      1047
+    ],
+    "size": [
+      725,
+      132
+    ]
+  },
+  "Divider": {
+    "source": "decorations",
+    "region": [
+      770,
+      520,
+      1510,
+      570
+    ],
+    "size": [
+      716,
+      20
+    ]
+  },
+  "CardLocked2": {
+    "source": "locked2",
+    "region": null,
+    "size": [
+      986,
+      1232
+    ]
+  },
+  "CardLocked3": {
+    "source": "locked3",
+    "region": null,
+    "size": [
+      981,
+      1175
+    ]
+  },
+  "Thumbnail1": {
+    "source": "selected",
+    "region": [
+      142,
+      300,
+      1001,
+      767
+    ],
+    "size": [
+      859,
+      467
+    ]
+  },
+  "Thumbnail2": {
+    "source": "locked2",
+    "region": [
+      140,
+      247,
+      1008,
+      747
+    ],
+    "size": [
+      868,
+      500
+    ]
+  },
+  "Thumbnail3": {
+    "source": "locked3",
+    "region": [
+      145,
+      275,
+      1005,
+      747
+    ],
+    "size": [
+      860,
+      472
+    ]
+  },
+  "SelectionFrame": {
+    "source": "decorations",
+    "region": [
+      0,
+      50,
+      760,
+      975
+    ],
+    "size": [
+      700,
+      862
+    ]
+  },
+  "SelectionArrow": {
+    "source": "decorations",
+    "region": [
+      1060,
+      140,
+      1220,
+      260
+    ],
+    "size": [
+      105,
+      66
+    ]
+  },
+  "EnterButton": {
+    "source": "labels",
+    "region": [
+      820,
+      110,
+      1448,
+      315
+    ],
+    "size": [
+      586,
+      178
+    ]
+  },
+  "BackButton": {
+    "source": "preview",
+    "region": [
+      31,
+      22,
+      155,
+      110
+    ],
+    "size": [
+      124,
+      88
+    ]
+  },
+  "LevelName1": {
+    "source": "labels",
+    "region": [
+      100,
+      525,
+      445,
+      610
+    ],
+    "size": [
+      314,
+      60
+    ]
+  },
+  "LevelName2": {
+    "source": "labels",
+    "region": [
+      565,
+      525,
+      915,
+      610
+    ],
+    "size": [
+      311,
+      61
+    ]
+  },
+  "LevelName3": {
+    "source": "labels",
+    "region": [
+      1040,
+      525,
+      1390,
+      610
+    ],
+    "size": [
+      303,
+      60
+    ]
+  },
+  "AvailableLabel": {
+    "source": "labels",
+    "region": [
+      575,
+      360,
+      800,
+      440
+    ],
+    "size": [
+      184,
+      57
+    ]
+  },
+  "LockedLabel": {
+    "source": "labels",
+    "region": [
+      170,
+      665,
+      350,
+      740
+    ],
+    "size": [
+      158,
+      49
+    ]
+  },
+  "UnlockHint": {
+    "source": "labels",
+    "region": [
+      100,
+      795,
+      435,
+      870
+    ],
+    "size": [
+      308,
+      43
+    ]
+  },
+  "BestTimeLabel": {
+    "source": "labels",
+    "region": [
+      65,
+      935,
+      260,
+      995
+    ],
+    "size": [
+      156,
+      39
+    ]
+  },
+  "BestCollectLabel": {
+    "source": "labels",
+    "region": [
+      310,
+      935,
+      490,
+      995
+    ],
+    "size": [
+      152,
+      39
+    ]
+  }
+}

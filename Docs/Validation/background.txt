@@ -1,0 +1,36 @@
+PASS: Upper floor industrial decorations installed
+PASS: NearScrapHeap vertical follow floor 1
+PASS: NearBrokenTank vertical follow floor 1
+PASS: ColumnTall vertical follow floor 1
+PASS: ColumnTall vertical follow floor 1
+PASS: NearDecoration vertical follow floor 1
+PASS: NearDecoration vertical follow floor 1
+PASS: FarCity vertical follow floor 1
+PASS: FarCity vertical follow floor 1
+PASS: FarCity vertical follow floor 1
+PASS: NearScrapHeap vertical follow floor 2
+PASS: NearBrokenTank vertical follow floor 2
+PASS: ColumnTall vertical follow floor 2
+PASS: ColumnTall vertical follow floor 2
+PASS: NearDecoration vertical follow floor 2
+PASS: NearDecoration vertical follow floor 2
+PASS: FarCity vertical follow floor 2
+PASS: FarCity vertical follow floor 2
+PASS: FarCity vertical follow floor 2
+PASS: NearScrapHeap returns without drift
+PASS: NearBrokenTank returns without drift
+PASS: ColumnTall returns without drift
+PASS: ColumnTall returns without drift
+PASS: NearDecoration returns without drift
+PASS: NearDecoration returns without drift
+PASS: FarCity returns without drift
+PASS: FarCity returns without drift
+PASS: FarCity returns without drift
+PASS: Base backdrop remains attached to camera
+PASS: Camera backdrop cover installed
+PASS: Backdrop covers viewport aspect 1.333333
+PASS: Backdrop covers viewport aspect 1.777778
+PASS: Decoration has no gameplay collision NearScrapHeap
+PASS: Decoration has no gameplay collision NearBrokenTank
+PASS: Decoration has no gameplay collision ColumnTall
+PASS: Decoration has no gameplay collision ColumnTall
