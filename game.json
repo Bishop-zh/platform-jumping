@@ -1,0 +1,12 @@
+{
+  "title": "锈境：能源重启",
+  "subtitle": "2D 平台跳跃",
+  "anchor": "rust",
+  "controls": "A / D 或方向键移动 · 空格 / W 跳跃 · Shift 冲刺 · E 交互 · Esc 设置",
+  "mode": "单机关卡试玩",
+  "slug": "platform-jumping",
+  "loader": "Build/platform-jumping.loader.js",
+  "dataUrl": "Build/platform-jumping.data.unityweb",
+  "frameworkUrl": "Build/platform-jumping.framework.js.unityweb",
+  "codeUrl": "Build/platform-jumping.wasm.unityweb"
+}
