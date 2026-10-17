@@ -1,12 +1,13 @@
 """Deterministically slice the supplied menu atlases; preserve the originals."""
 from pathlib import Path
+import tempfile
 import json
 import shutil
 from PIL import Image
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = Path('C:/Users/USER/AppData/Local/Temp')
+SOURCE = Path(tempfile.gettempdir())
 FILES = {
     'preview': '3b7ad84d-aa88-4ef3-9374-0c56cd918a8f',
     'title': 'd21632e6-c004-4ad7-9bd0-6e2c31084e57',

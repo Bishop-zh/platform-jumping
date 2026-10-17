@@ -1,4 +1,5 @@
 from pathlib import Path
+import tempfile
 from PIL import Image,ImageOps,ImageDraw,ImageFont,ImageFilter
 import shutil,json,sys
 from collections import deque
@@ -10,7 +11,7 @@ robot_only='--robot-only' in sys.argv
 report={'ppu':32,'canvas':[64,64],'mirrored_idle_indices':[12,14,16,22],'outline':'Restore one native pixel dark silhouette after opaque-background extraction; preserve authored alpha when available','frames':{}}
 for state,key in ids.items():
     if robot_only and state=='Charge':report['frames'][state]=4;continue
-    source=Path('C:/Users/USER/AppData/Local/Temp')/f'codex-clipboard-{key}.png';saved=archive/f'{state}.png'
+    source=Path(tempfile.gettempdir())/f'codex-clipboard-{key}.png';saved=archive/f'{state}.png'
     if not saved.exists() and source.exists():shutil.copy2(source,saved)
     im=Image.open(saved).convert('RGBA');cols,rows=(4,1) if state=='Charge' else (6,4)
     # These new sheets use opaque black backgrounds. Remove only black connected

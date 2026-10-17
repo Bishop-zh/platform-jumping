@@ -1,11 +1,12 @@
 from pathlib import Path
+import tempfile
 from PIL import Image,ImageDraw,ImageFont
 import shutil,json
 ROOT=Path(__file__).resolve().parents[1];out=ROOT/'Assets/Art/Pixel/World';archive=ROOT/'ArtSource/World/Catalog';archive.mkdir(parents=True,exist_ok=True)
 keys=['19a011cd-199e-45aa-9b48-a1136879e26b','e3f58349-8ac8-4e1b-a3f1-01965e7d35a7','6f46993d-953e-4c14-bec4-90cbf2968005','db2c98ad-6c9a-4157-a84c-7700e0534bd5','27b9d9c6-1b23-4158-aef1-ccdd1e41ac63']
 sheets=[];items=[];manifest=json.loads((ROOT/'ArtSource/World/slices.json').read_text(encoding='utf-8'))
 for i,key in enumerate(keys):
- saved=archive/(str(i)+'.png');src=Path('C:/Users/USER/AppData/Local/Temp')/('codex-clipboard-'+key+'.png')
+ saved=archive/(str(i)+'.png');src=Path(tempfile.gettempdir())/('codex-clipboard-'+key+'.png')
  if src.exists():shutil.copy2(src,saved)
  sheets.append(Image.open(saved).convert('RGBA'))
 SURFACES={

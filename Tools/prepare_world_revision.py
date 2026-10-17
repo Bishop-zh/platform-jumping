@@ -1,4 +1,5 @@
 from pathlib import Path
+import tempfile
 import shutil,json
 from PIL import Image,ImageEnhance
 ROOT=Path(__file__).resolve().parents[1]
@@ -14,7 +15,7 @@ def world(name,sheet,rect,size):
  im.putalpha(im.getchannel('A').point(lambda v:255 if v>=100 else 0));im.save(out/(name+'.png'))
  manifest[name]={'revision':2,'sheet':sheet,'source_rect_1280':list(rect),'native_size':list(size),'ppu':32}
 for name,key in ids.items():
- target=archive/(name+'.png');source=Path('C:/Users/USER/AppData/Local/Temp')/('codex-clipboard-'+key+'.png')
+ target=archive/(name+'.png');source=Path(tempfile.gettempdir())/('codex-clipboard-'+key+'.png')
  if source.exists():shutil.copy2(source,target)
  sheets[name]=Image.open(target).convert('RGBA');print(name,sheets[name].size)
 for i,rect in enumerate([(43,77,263,306),(267,77,501,306),(505,77,738,306),(735,77,983,310),(988,77,1205,310)]):world('GroundModule'+str(i),'Terrain',rect,(64,64))
@@ -30,7 +31,7 @@ for n in ['Fragment1','Fragment2','Fragment3']:
 for name,rect in {'CollectFrame':(24,103,626,292),'LevelFrame':(619,103,1236,292),'TimeFrame':(23,319,478,475),'SettingsButton':(489,319,634,475),'PauseButton':(639,319,789,475),'Battery':(892,316,978,475),'Clock':(997,335,1116,472),'KeyA':(53,707,203,854),'KeyD':(213,707,366,854),'KeySpace':(373,698,707,854),'KeyC':(714,698,868,854),'Multiply':(56,1050,171,1170)}.items():
  crop('HUD',rect).save(ui/(name+'.png'))
 # The new atlas digits are intentionally unused: retain the project's shared numeral atlas.
-reference=Image.open('C:/Users/USER/AppData/Local/Temp/codex-clipboard-87daa104-feb2-4623-8eda-1cc81abb26ea.png').convert('RGBA')
+reference=Image.open((Path(tempfile.gettempdir()) / 'codex-clipboard-87daa104-feb2-4623-8eda-1cc81abb26ea.png')).convert('RGBA')
 for name,rect in {'Name01':(432,43,572,76),'Name02':(432,43,572,76)}.items():reference.crop(rect).save(ui/(name+'.png'))
 # Richer original skyline, without the old gray multiply and severe 16-color reduction.
 bg=Image.open(ROOT/'Assets/Art/UI/MainMenu/Background.png').convert('RGBA').resize((640,360),Image.Resampling.BOX)

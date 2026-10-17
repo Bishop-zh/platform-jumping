@@ -1,5 +1,6 @@
 """Slice supplied selection atlases without baking UI numbers into artwork."""
 from pathlib import Path
+import tempfile
 import json, shutil
 import numpy as np
 from PIL import Image, ImageFilter
@@ -24,7 +25,7 @@ sources={
 images={}
 manifest={}
 for name,key in sources.items():
- source=Path('C:/Users/USER/AppData/Local/Temp')/('codex-clipboard-'+key+'.png')
+ source=Path(tempfile.gettempdir())/('codex-clipboard-'+key+'.png')
  saved=ARCHIVE/(name+'.png')
  if source.exists(): shutil.copy2(source,saved)
  images[name]=Image.open(saved).convert('RGBA')

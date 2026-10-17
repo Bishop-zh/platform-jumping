@@ -1,5 +1,6 @@
 """Normalize supplied irregular atlases into exact native PPU=32 sprite canvases."""
 from pathlib import Path
+import tempfile
 import json, shutil
 from PIL import Image
 import numpy as np
@@ -12,7 +13,7 @@ keys={'A':'b29bd0d1-9ba7-4a96-98c3-6f2a27b1be5d','B':'0309343a-ce79-44fd-a078-3a
       'C':'a923d11b-5977-4901-a6a9-b419eb5a8828','D':'fe65d6da-9078-4e37-b377-168a1991982d'}
 sources={}; manifest={}
 for name,key in keys.items():
-    source=Path('C:/Users/USER/AppData/Local/Temp')/('codex-clipboard-'+key+'.png')
+    source=Path(tempfile.gettempdir())/('codex-clipboard-'+key+'.png')
     saved=ARCHIVE/(name+'.png')
     if source.exists(): shutil.copy2(source,saved)
     sources[name]=Image.open(saved).convert('RGBA')

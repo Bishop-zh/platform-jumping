@@ -27,9 +27,8 @@
 __pycache__/
 *.pyc
 
-# Keep the presentation and demo guide, exclude duplicate delivery packages
-/Deliverables/*
-!/Deliverables/*.pptx
+# Local delivery outputs
+/Deliverables/
 
 # Local credentials must never be committed
 .env
@@ -40,3 +39,22 @@ __pycache__/
 *.pfx
 *.p12
 .gitee-token*
+
+# Private coursework, presentations and local office attachments
+/Report/
+/Reports/
+/Deliverables/
+/ppt_work/
+*.ppt
+*.pptx
+*.pptm
+*.doc
+*.docx
+*.docm
+*.dotx
+*实验报告*
+*课程报告*
+*课程设计报告*
+*大作业报告*
+*汇报*
+*答辩*

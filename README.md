@@ -1,10 +1,11 @@
-﻿# 锈境：能源重启
+# 锈境：能源重启
 
 [在线试玩](https://bishop-zh.github.io/platform-jumping/) · [WebGL 构建与发布](WEBGL.md)
 
 
 一款使用 **Unity 2022.3 + C#** 开发的 2D 像素风平台跳跃游戏。玩家操控维修机器人，在废弃工业设施中移动、跳跃和冲刺，利用充电站补充电量，驱动门与升降平台，最终登上能源核心站。
 
+项目包含三个可编辑关卡、菜单与选关、失败重试、通关结算和本地进度存档。本页以仓库中的实际代码说明玩法与关键技术。
 
 ![主菜单设计预览](ArtSource/MainMenu/preview.png)
 
@@ -69,6 +70,7 @@
 
 当前 [`PlayerMotor.RefreshGrounded`](Assets/Scripts/World/PlayerMotor.cs) 优先通过 `BoxCollider2D.GetContacts` 读取物理接触，检查接触法线的 Y 分量以识别脚下支撑，排除侧墙、触发器和自身刚体。未找到支撑时，以碰撞箱当前世界 `bounds` 计算脚底 BoxCast，自动跟随尺寸、偏移与缩放变化。选中角色可通过 Gizmo 查看探测范围。
 
+这里使用 `GetContacts` 查询接触点，以实际接触法线判断落地。
 
 ### 2. 输入缓存、离地宽限与移动平台搭载
 
@@ -162,5 +164,3 @@ Tools/              素材处理、打包与辅助脚本
 - [机器人动画与充电使用说明](Docs/机器人动画与充电使用说明.md)
 - [交互提示与压板箱子](Docs/交互提示与压板箱子.md)
 - [游戏 HUD 与暂停界面编辑](Docs/游戏HUD与暂停界面编辑.md)
-
-

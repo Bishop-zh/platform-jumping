@@ -1,5 +1,6 @@
 """Slice supplied modal atlases; only extract labels/icons from previews when absent."""
 from pathlib import Path
+import tempfile
 import json, shutil
 import numpy as np
 from PIL import Image, ImageFilter
@@ -24,7 +25,7 @@ ARCHIVE.mkdir(parents=True, exist_ok=True)
 manifest = {}
 images = {}
 for name, key in SOURCES.items():
-    source = Path('C:/Users/USER/AppData/Local/Temp')/('codex-clipboard-'+key+'.png')
+    source = Path(tempfile.gettempdir())/('codex-clipboard-'+key+'.png')
     archive = ARCHIVE/(name+'.png')
     if source.exists(): shutil.copy2(source, archive)
     images[name] = Image.open(archive).convert('RGBA')
