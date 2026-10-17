@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.Runtime.InteropServices;
 using UnityEngine;
@@ -17,6 +17,10 @@ namespace Rustbound.UI
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         static void StartDisplay()
         {
+#if UNITY_WEBGL && !UNITY_EDITOR
+            // The browser player owns canvas sizing and user-initiated fullscreen.
+            return;
+#endif
             if(Application.isEditor)return;
             instance=new GameObject("GameDisplay").AddComponent<GameDisplay>();DontDestroyOnLoad(instance.gameObject);
             SetFullscreen(PlayerPrefs.GetInt("Settings.Fullscreen",1)==1);

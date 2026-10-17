@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 namespace Rustbound.World
 {
@@ -23,7 +23,12 @@ namespace Rustbound.World
             var root=new GameObject("PlayerHints",typeof(Canvas),typeof(CanvasScaler));canvas=root.GetComponent<Canvas>();canvas.renderMode=RenderMode.ScreenSpaceOverlay;canvas.sortingOrder=50;
             var scaler=root.GetComponent<CanvasScaler>();scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize;scaler.referenceResolution=new Vector2(640,360);scaler.screenMatchMode=CanvasScaler.ScreenMatchMode.Expand;
             var go=new GameObject("Hint",typeof(RectTransform),typeof(Text),typeof(Outline));go.transform.SetParent(root.transform,false);label=go.GetComponent<Text>();
-            font=Font.CreateDynamicFontFromOSFont(new[]{"Microsoft YaHei","SimHei","Arial Unicode MS"},18);label.font=font;label.fontSize=14;label.alignment=TextAnchor.MiddleCenter;label.color=new Color32(253,216,167,255);label.raycastTarget=false;
+#if UNITY_WEBGL && !UNITY_EDITOR
+            font=Resources.Load<Font>("Portfolio/Fonts/NotoSansSC-Regular");
+#else
+            font=Font.CreateDynamicFontFromOSFont(new[]{"Microsoft YaHei","SimHei","Arial Unicode MS"},18);
+#endif
+            label.font=font;label.fontSize=14;label.alignment=TextAnchor.MiddleCenter;label.color=new Color32(253,216,167,255);label.raycastTarget=false;
             go.GetComponent<Outline>().effectColor=new Color32(12,17,22,230);go.GetComponent<Outline>().effectDistance=new Vector2(1,-1);
             label.rectTransform.sizeDelta=new Vector2(300,40);label.rectTransform.anchorMin=label.rectTransform.anchorMax=label.rectTransform.pivot=new Vector2(.5f,.5f);
         }
